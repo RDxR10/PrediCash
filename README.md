@@ -1,7 +1,8 @@
 # PrediCash
 
-This application is designed to predict transaction amounts for a local ATM(specific dataset), using both the day of the week and the total number of "cash" transactions as factors. It can be further extended to perform financial analyses, such as insurance or claims calculations, by incorporating additional variables.
+This application is designed to predict transaction amounts for a local ATM(specific dataset), using both the day of the week and the total number of transactions as factors. It can be further extended to perform financial analyses, such as insurance or claims calculations, by incorporating additional variables.
 
+Update1: Now, you can feed in the total no. of transactions instead of "cash" transactions.
 
 ## Requirements
 
